@@ -13,7 +13,7 @@ public class Main {
 		System.out.println(mensaje + "\n" + mensaje2);
 		System.out.println();
 		
-												//Tipos de variables
+						//Tipos de variables
 		int n = 5; 
 		int n2 = 7;
 		System.out.println("Suma");
