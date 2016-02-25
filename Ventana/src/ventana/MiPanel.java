@@ -36,8 +36,8 @@ public class MiPanel extends JPanel  {
 		MouseMotionListener mml = new MouseMotionAdapter() {
 			@Override
 			public void mouseMoved(MouseEvent e) {
-				double x = e.getX();
-				double y = e.getY();
+				/*double x = e.getX();
+				double y = e.getY();*/
 				//cambiarColor(x,y);
 				
 			}

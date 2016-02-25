@@ -19,7 +19,9 @@ public class Ejercicio12c {
 	
 	String numero5 = JOptionPane.showInputDialog("Nº 5 de 5");
 	int n5 = Integer.parseInt(numero5);
+	
 	int v=0;
+	
 	if (n1%10==2){
 		v++;
 	}
